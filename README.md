@@ -9,3 +9,4 @@ pnpm i
 pnpm dev:playground
 ```
 # dapp
+# infinitydapp
